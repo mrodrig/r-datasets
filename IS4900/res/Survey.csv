@@ -1,0 +1,17 @@
+Participant ID,Date,Have you owned a smartphone?,Have you installed a QR code reader?,"How many smart mobile devices do you own (ie. phones, tablets)?",How many years old is your newest smart device?,How many years old is your oldest smart device?,How many quick response (QR) codes do you scan each week?,I believe that Quick Response (QR) codes are useful.,I use Quick Response (QR) codes frequently.,I prefer to scan a Quick Response (QR) code over other alternatives.,"I would rather type a website link, or URL, than scan a Quick Response (QR) code.",I remember events with QR codes more easily than those with website links (URLs).,CompositeScore,How old are you?,Gender,Ethnicity,What is your level of education?
+P1,3/10/2016,Yes,Yes,2,Less than 1 year old,1 to 2 years old,3 to 5,6,5,6,2,5,5.6,22,Male,White,Some College
+P2,3/10/2016,Yes,No,3,Less than 1 year old,Greater than 4 years old,0,5,2,3,6,5,3.4,22,Male,White,Some College
+P11,3/10/2016,No,No,1,Less than 1 year old,Less than 1 year old,0,4,4,2,5,4,3.4,20,Female,Black/African American,Some College
+P3,3/10/2016,Yes,Yes,1,1 to 2 years old,1 to 2 years old,1 to 3,6,4,5,4,5,4.8,21,Male,Hispanic/Latino,Some College
+P4,3/10/2016,Yes,Yes,1,Less than 1 year old,Less than 1 year old,3 to 5,5,6,5,4,3,4.6,23,Male,White,Some College
+P5,3/10/2016,Yes,Yes,1,1 to 2 years old,1 to 2 years old,5 to 7,7,6,6,2,6,6.2,21,Male,Asian/Pacific Islander,Some College
+P6,3/10/2016,Yes,No,2,1 to 2 years old,2 to 3 years old,0,2,2,3,5,4,2.8,18,Female,Asian/Pacific Islander,Some College
+P7,3/11/2016,Yes,Yes,2,Less than 1 year old,Less than 1 year old,3 to 5,5,4,5,3,3,4.4,19,Female,White,Some College
+P8,3/11/2016,Yes,Yes,1,2 to 3 years old,2 to 3 years old,0,3,2,2,4,4,3,21,Male,Black/African American,Some College
+P9,3/11/2016,Yes,No,2,1 to 2 years old,3 to 4 years old,0,3,4,1,4,4,3.2,20,Female,White,Some College
+P10,3/11/2016,Yes,Yes,3,Less than 1 year old,Greater than 4 years old,7+,6,5,4,1,4,5.2,19,Male,Hispanic/Latino,Some College
+P12,3/24/2016,Yes,No,1,Less than 1 year old,Less than 1 year old,0,3,2,3,5,5,3.2,20,Female,White,Some College
+P13,3/24/2016,Yes,Yes,2,1 to 2 years old,2 to 3 years old,1 to 3,6,5,6,4,4,5,22,Male,Black/African American,Some College
+P14,3/24/2016,Yes,Yes,1,Less than 1 year old,Less than 1 year old,1 to 3,6,6,4,2,5,5.4,19,Male,Hispanic/Latino,Some College
+P15,3/24/2016,Yes,No,2,2 to 3 years old,3 to 4 years old,0,3,2,4,5,3,3,18,Female,White,Some College
+P16,3/24/2016,Yes,Yes,1,1 to 2 years old,1 to 2 years old,3 to 5,6,6,6,3,6,5.8,22,Female,Asian/Pacific Islander,Some College
