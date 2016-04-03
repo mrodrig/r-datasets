@@ -1,0 +1,19 @@
+Timestamp,Participant ID,What is your primary smartphone OS?,Smartphone OS Coded,What is your primary laptop OS?,Laptop OS Coded,Do you believe there is relationship between the two?,Belief Coded,How important is OS compatibility?,What is your gender?,Gender Coded,What is your race?,Race Coded,What is your age?
+4/1/2016 11:14:43,1,iOS,0,Mac,0,No,0,1,Female,1,White,0,22
+4/1/2016 11:14:56,2,Android,1,Windows,1,No,0,5,Female,1,Middle Eastern,1,21
+4/1/2016 11:15:17,3,iOS,0,Mac,0,Yes,1,5,Female,1,African American/Black,2,18
+4/1/2016 11:15:47,4,Android,1,Windows,1,No,0,5,Male,0,White,0,19
+4/1/2016 11:16:03,5,Windows,2,Windows,1,No,0,2,Female,1,Asian/Pacific Islander,3,18
+4/1/2016 11:17:36,6,Android,1,Mac,0,No,0,4,Female,1,Asian/Pacific Islander,3,20
+4/1/2016 11:18:01,7,iOS,0,Windows,1,No,0,6,Male,0,Asian/Pacific Islander,3,25
+4/1/2016 11:20:13,8,Android,1,Linux,2,Yes,1,7,Male,0,Asian/Pacific Islander,3,19
+4/1/2016 11:20:14,9,Android,1,Windows,1,Yes,1,5,Female,1,Asian/Pacific Islander,3,20
+4/1/2016 11:20:15,10,iOS,0,Windows,1,No,0,3,Female,1,White,0,19
+4/1/2016 11:21:02,11,iOS,0,Windows,1,No,0,5,Male,0,White,0,20
+4/1/2016 11:21:11,12,iOS,0,Mac,0,Yes,1,4,Male,0,Asian/Pacific Islander,3,19
+4/1/2016 11:22:13,13,iOS,0,Mac,0,Yes,1,5,Female,1,White,0,18
+4/1/2016 11:22:17,14,iOS,0,Mac,0,Yes,1,7,Female,1,White,0,19
+4/1/2016 11:22:27,15,iOS,0,Mac,0,Yes,1,5,Female,1,Middle Eastern,1,18
+4/2/2016 16:10:00,16,iOS,0,Windows,1,Yes,1,7,Female,1,White,0,21
+4/3/2016 9:46:58,17,Android,1,Mac,0,Yes,1,5,Male,0,White,0,22
+4/3/2016 9:48:01,18,Android,1,Windows,1,Yes,1,4,Female,1,White,0,21
