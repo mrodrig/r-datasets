@@ -1,7 +1,7 @@
-"Timestamp","First Treatment","Gliffy Simple Time (seconds)","Creately Simple Time (seconds)","How familiar are you with Diagramming Software?","Have you used either of these online diagram tools before?","Which interface did you like more?","How many classes have you used similar software for? Please enter a number.","What is your age?","What is your gender?","What is your ethnicity?"
-"2016/04/12 11:45:51 AM AST","Creately","101","130","6","Both","Gliffy","4","22","Male","White"
-"2016/04/12 11:49:07 AM AST","Gliffy","146","182","5","No","Gliffy","3","22","Male","White"
-"2016/04/12 11:59:33 AM AST","Gliffy","166","193","5","Creately","Gliffy","3","21","Male","White"
-"2016/04/12 8:12:37 PM AST","Gliffy","170","200","2","No","Gliffy","2","22","Male","White"
-"2016/04/12 9:26:16 PM AST","Creately","141","196","4","No","Gliffy","1","21","Female","White"
-"2016/04/12 9:31:48 PM AST","Creately","152","176","4","Creately","Gliffy","2","23","Male","Middle Eastern"
+Date,First Treatment,FirstTreatmentCoded,Gliffy Simple Time (seconds),Creately Simple Time (seconds),How familiar are you with Diagramming Software?,Have you used either of these online diagram tools before?,Which interface did you like more?,How many classes have you used similar software for? Please enter a number.,What is your age?,What is your gender?,What is your ethnicity?
+4/12/2016,Creately,0,101,130,6,Both,Gliffy,4,22,Male,White
+4/12/2016,Gliffy,1,146,182,5,No,Gliffy,3,22,Male,White
+4/12/2016,Gliffy,1,166,193,5,Creately,Gliffy,3,21,Male,White
+4/12/2016,Creately,0,141,196,4,No,Gliffy,1,21,Female,White
+4/12/2016,Gliffy,1,170,200,2,No,Gliffy,2,22,Male,White
+4/12/2016,Creately,0,152,176,4,Creately,Gliffy,2,23,Male,Middle Eastern
